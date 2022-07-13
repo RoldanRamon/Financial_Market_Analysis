@@ -1,1 +1,5 @@
 *.pbxproj binary merge=union
+
+*.Rmd linguist-detectable=true
+*.R linguist-detectable=true
+*.md linguist-detectable=true
