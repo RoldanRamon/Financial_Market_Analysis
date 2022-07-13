@@ -1,0 +1,29 @@
+---
+title: "Artigo"
+author: "Ramon Roldan"
+date: "7/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contexto
+
+Este post irá abordar tópicos sobre machine learning, series temporais, mercado financeiro, api.
+
+## Objetivo
+
+O principal objetivo é desenvolver um modelo de machine learning capaz de prever o movimento do dia seguinte do indice ibovespa.
+
+## Organização do trabalho
+* Coleta dos dados por meio da API do pacote quantmode;
+* Cleaning data;
+* Start an exploratory analysis;
+* Usar tidymodels para desenvolver modelo;
+* Avaliar resultados do modelo;
+* Criar um dashboard com o flexdashboard, shiny e ploty;
+* Realizar deploy do modelo and uploud in the shinyapp.io
+
+
