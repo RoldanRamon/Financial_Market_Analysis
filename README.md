@@ -1,4 +1,4 @@
-![logo](https://hackinganalytics.files.wordpress.com/2018/11/time_series_logo.png)
+<img src="https://hackinganalytics.files.wordpress.com/2018/11/time_series_logo.png" width="50%" alt="logo">
 
 # ***Objetivo***
 
